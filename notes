@@ -1,0 +1,3 @@
+Doubly Linked List in C
+A Doubly Linked List (DLL) contains an extra pointer, typically called the previous pointer, together with the next pointer and data which are there in a singly linked list. 
+
